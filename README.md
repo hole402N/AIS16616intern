@@ -40,3 +40,9 @@ Task 5:-
 3. Dataframe operation or dataframe method in pandas.
 4. selection in dataframes:row or column selection,delete,update,index,remove index etc.operation between two rows or columns in dataframe.
 5. Missing Values:checking for missing values,dropping missing values,fill missing value.
+
+# Day 7
+
+Task 6:-
+1. Matplot library for visualisation : scatter plot ,line plot,histohram,pie chart,etc.customization in this plot like colour,legend,size ,etc.
+2. seaborn library : seaborn is a library that uses Matplotlib underneath to plot graphs.
