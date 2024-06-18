@@ -46,3 +46,7 @@ Task 5:-
 Task 6:-
 1. Matplot library for visualisation : scatter plot ,line plot,histohram,pie chart,etc.customization in this plot like colour,legend,size ,etc.
 2. seaborn library : seaborn is a library that uses Matplotlib underneath to plot graphs.
+
+# Day 8
+
+Task 7:-
