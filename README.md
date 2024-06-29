@@ -8,8 +8,8 @@ iii) In Jupiter notebook we learned how to create jupiter notebook and how to ru
 
 # Task 1-
 
- i) We learned  Operators. Operators we have Arithmetic, Assignment, Comparison, Logical, Identity, Membership and etc.Looked at some of these types and learned how to use         them.
- ii) After this we learned what is variable selection in python. We saw the different rules of how to create variables, how to write variable names.And also saw examples            of variable selection.
+ i) We learned  Operators. Operators we have Arithmetic, Assignment, Comparison, Logical, Identity, Membership and etc.Looked at some of these types and learned how to use them.
+ ii) After this we learned what is variable selection in python. We saw the different rules of how to create variables, how to write variable names.And also saw examples of variable selection.
  iii) Then we learned what Data Types are. There are two types of data types, Mutable Data Types and Immutable Data Types. 1) Mutable Data Types include List, Set, 
       Dictionary Data Types. And saw examples of each. 2) Immutable Data Types include Numerical, String and Tuple Data Types and saw some examples.
 
@@ -58,9 +58,11 @@ Case study:
 4. label encoding for categorical variable 
 
 * Visualisation:
- EDA: bar plot , scatter plot ,joint bar plot,Pai chart, etc
+
+EDA: bar plot , scatter plot ,joint bar plot,Pai chart, etc
 
 * Model building:
+
 5.choose dependent and independent variables
 6.split data into train test ,80:20
 7.import naive bay’s algorithms 
@@ -68,15 +70,18 @@ Case study:
 9.predict text data using fitted model
 
 * Model evaluation: 
+
 10.find accuracy 
 11.find classification report 
 12.find confusion matrics 
 
 * Same process for :
+
 8.knn algorithm 
 9.decision tree
 
 * Comparison:
+
 Naive bays , knn,decision tree compair 
 Accuracy,recall, precision
 
