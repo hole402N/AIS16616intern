@@ -63,22 +63,22 @@ EDA: bar plot , scatter plot ,joint bar plot,Pai chart, etc
 
 * Model building:
 
-5.choose dependent and independent variables
-6.split data into train test ,80:20
-7.import naive bay’s algorithms 
-8.fit naive bays model on train data
-9.predict text data using fitted model
+5. choose dependent and independent variables
+6. split data into train test ,80:20
+7. import naive bay’s algorithms 
+8. fit naive bays model on train data
+9. predict text data using fitted model
 
 * Model evaluation: 
 
-10.find accuracy 
-11.find classification report 
-12.find confusion matrics 
+10. find accuracy 
+11. find classification report 
+12. find confusion matrics 
 
 * Same process for :
 
-8.knn algorithm 
-9.decision tree
+8. knn algorithm 
+9. decision tree
 
 * Comparison:
 
