@@ -87,7 +87,7 @@ Accuracy,recall, precision
 
  # Final Project
   We done our project on the data set of "Customer Churn Analysis".
-   Then we done a Data Preprocessing,Visualisation,Model Building,Model Evaluation by using the different types of algorithms.Then we plot a comparision graphs on base algorithms Accuracy vs gridsearchcv's algorithm Accuracy and done these same process for precision.Then we create a another file for feature importance here we done same procedure Data Preprocessing,Model Building,Model Evaluation by using the different types of algorithms.Then we plot a comparision graphs on base algorithms Accuracy vs gridsearchcv's algorithm Accuracy and done these same process for precision.
+   Then we done a Data Preprocessing,Visualisation,Model Building,Model Evaluation by using the different types of algorithms.Then we plot a comparision graphs on base algorithms Accuracy vs gridsearchcv's algorithm Accuracy and done these same process for precision.Then we create a another file for feature importance here we done same procedure Data Preprocessing,Model Building,Model Evaluation by using the different types of algorithms.Then we plot a comparision graphs on base algorithms Accuracy vs gridsearchcv's algorithm Accuracy and done these same process for precision.By examine all process we give some conclusions.
 
 * Here we create visualisation on Dashboard using Power-bi.
 
